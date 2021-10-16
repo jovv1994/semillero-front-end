@@ -89,7 +89,7 @@
 		"forms": {
 			"G2BMM": [
 				{
-					"generated": 2,
+					"generated": 4,
 					"moduleId": "G2BMM",
 					"name": "EstudianteSpcForm",
 					"subModuleId": "FG2HX",
@@ -97,7 +97,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 2,
+					"generated": 4,
 					"moduleId": "G2BMM",
 					"name": "EstudianteEcgForm",
 					"subModuleId": "FG2HX",
