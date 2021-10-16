@@ -1,5 +1,11 @@
 {
 	"entities": [
+		{
+			"entityId": "EN_ESTUDIATN_549",
+			"isContextEntity": null,
+			"moduleId": "G2BMM",
+			"related": false
+		}
 	],
 	"queries": [
 	]

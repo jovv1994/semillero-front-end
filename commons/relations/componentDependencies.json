@@ -12,6 +12,12 @@
 			"blis": [
 			],
 			"entities": {
+				"EN_ESTUDIATN_549": [
+					"AT23_APELLIDO549",
+					"AT48_EDADANSC549",
+					"AT57_SEXORLKY549",
+					"AT97_NOMBREKB549"
+				]
 			},
 			"externalEntities": {
 			},
@@ -20,6 +26,11 @@
 			"header": [
 			],
 			"labels": [
+				"LBL_G2BMM_APELLIDOO_44524",
+				"LBL_G2BMM_EDADHXAZM_94450",
+				"LBL_G2BMM_GUARDARMI_85936",
+				"LBL_G2BMM_NOMBREHFT_33351",
+				"LBL_G2BMM_SEXOWBXUI_96171"
 			],
 			"queries": {
 			},
