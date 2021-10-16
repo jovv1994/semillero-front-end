@@ -7,10 +7,16 @@
 				{
 					"generated": 0,
 					"moduleId": "G2BMM",
-					"moduleName": "G2",
+					"name": "EstudianteKACForm",
+					"subModuleId": "FG2HX",
+					"taskId": "T_G2BMMBZMHAXCO_860",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "G2BMM",
 					"name": "EstudianteWCSForm",
 					"subModuleId": "FG2HX",
-					"subModuleName": "FG2",
 					"taskId": "T_G2BMMJEILJYOW_425",
 					"type": "Simple form"
 				}
