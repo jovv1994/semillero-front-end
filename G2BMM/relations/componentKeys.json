@@ -13,6 +13,12 @@
 			},
 			"T_G2BMMWMNTXXTX_710": {
 				"name": "EstudianteKSACForm"
+      },
+			"T_G2BMMCXGROHCH_739": {
+				"name": "EstudianteSpcForm"
+      },
+			"T_G2BMMHBCSPWNH_310": {
+				"name": "EstudianteLfyForm"
 			}
 		},
 		"Queries": {
