@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONGEOEQRI_619540",
+		"controlName": "VA_VABUTTONGEOEQRI_619540",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "Estudiante",
+		"eventsType": "visualAttributeEventType"
+	}
+]

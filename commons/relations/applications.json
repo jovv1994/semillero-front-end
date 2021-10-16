@@ -1,2 +1,108 @@
 {
+  "APP_GRUPOAEOFKI_269": {
+		"externalModules": {
+		},
+		"forms": {
+			"G2BMM": [
+				{
+					"generated": 4,
+					"moduleId": "G2BMM",
+					"name": "EstudianteLfyForm",
+					"subModuleId": "FG2HX",
+					"taskId": "T_G2BMMHBCSPWNH_310",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "GrupoA",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_GRUPOAEOFKI_269",
+		"mainPortletTaskId": "T_G2BMMHBCSPWNH_310",
+		"modules": [
+			"G2BMM"
+		],
+		"name": "GrupoA"
+	},
+  "APP_GRUPOCILXTM_850": {
+		"externalModules": {
+		},
+		"forms": {
+			"G2BMM": [
+				{
+					"generated": 4,
+					"moduleId": "G2BMM",
+					"name": "EstudianteSpcForm",
+					"subModuleId": "FG2HX",
+					"taskId": "T_G2BMMCXGROHCH_739",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "G2BMM",
+					"name": "EstudianteEcgForm",
+					"subModuleId": "FG2HX",
+					"taskId": "T_G2BMMMMFIHRQP_426",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "GrupoC",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_GRUPOCILXTM_850",
+		"mainPortletTaskId": "T_G2BMMCXGROHCH_739",
+		"modules": [
+			"G2BMM"
+		],
+		"name": "GrupoC"
+	},
+	"APP_GROUPBXUYSE_163": {
+		"externalModules": {
+		},
+		"forms": {
+			"G2BMM": [
+				{
+					"generated": 4,
+					"moduleId": "G2BMM",
+					"name": "EstudianteWCSForm",
+					"subModuleId": "FG2HX",
+					"taskId": "T_G2BMMFVGWIDTY_959",
+					"type": "Simple form"
+				},
+				{
+					"generated": 4,
+					"moduleId": "G2BMM",
+					"name": "EstudianteKSACForm",
+					"subModuleId": "FG2HX",
+					"taskId": "T_G2BMMWMNTXXTX_710",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "GroupB",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_GROUPBXUYSE_163",
+		"mainPortletTaskId": "T_G2BMMFVGWIDTY_959",
+		"modules": [
+			"G2BMM"
+		],
+		"name": "GroupB"
+	}
 }
