@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONIGPGTXU_480742",
+		"controlName": "VA_VABUTTONIGPGTXU_480742",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "Estudiante",
+		"eventsType": "visualAttributeEventType"
+	}
+]
