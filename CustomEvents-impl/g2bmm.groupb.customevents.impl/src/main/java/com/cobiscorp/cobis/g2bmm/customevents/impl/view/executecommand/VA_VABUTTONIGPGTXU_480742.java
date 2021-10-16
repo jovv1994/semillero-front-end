@@ -19,6 +19,8 @@ import org.apache.felix.scr.annotations.Property;
 import org.apache.felix.scr.annotations.Service;
 import com.cobiscorp.cobis.commons.domains.log.ILogger;
 import com.cobiscorp.cobis.commons.log.LogFactory;
+import com.cobiscorp.cobis.g2bmm.model.Estudiante;
+import com.cobiscorp.designer.api.DataEntity;
 import com.cobiscorp.designer.api.DynamicRequest;
 import com.cobiscorp.designer.api.customization.IExecuteCommand;
 import com.cobiscorp.designer.api.customization.arguments.IExecuteCommandEventArgs;
@@ -44,6 +46,12 @@ public class VA_VABUTTONIGPGTXU_480742 implements IExecuteCommand {
 			if (logger.isDebugEnabled()) {
 				logger.logDebug("Start executeCommand in VA_VABUTTONIGPGTXU_480742");
 			}
+			DataEntity entityEstudiante = arg0.getEntity(Estudiante.ENTITY_NAME);
+			String nombre = entityEstudiante.get(Estudiante.NOMBRE);
+			String apellido = entityEstudiante.get(Estudiante.APELLIDO);
+			
+			logger.logDebug("Nombre: " + nombre);
+			logger.logDebug("Apellido: " + apellido);
 		} catch (Exception ex) {
 			DesignerManagerException.handleException(arg1.getMessageManager(), ex, logger);
 		}
