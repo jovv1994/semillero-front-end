@@ -220,9 +220,9 @@
 			</exclusions>
 		</dependency>
 		<dependency>
-				<artifactId>g2bmm.domains</artifactId>
-				<groupId>com.cobiscorp.cobis</groupId>
-				<version>1.0.0</version>
+			<artifactId>g2bmm.domains</artifactId>
+			<groupId>com.cobiscorp.cobis</groupId>
+			<version>1.0.0</version>
 		</dependency>
 	</dependencies>
 </project>
