@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2024 BETA",
+	"moduleId": "G2BMM",
+	"modules": [
+		{
+			"moduleId": "G2BMM",
+			"moduleName": "G2",
+			"subModules": [
+				{
+					"subModuleId": "FG2HX",
+					"subModuleName": "FG2"
+				}
+			]
+		}
+	],
+	"projectName": "TallerGrupo2",
+	"subModuleId": "FG2HX"
+}
