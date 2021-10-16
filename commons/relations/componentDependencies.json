@@ -8,6 +8,35 @@
 		}
 	},
 	"Forms": {
+		"T_G2BMMHBCSPWNH_310": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ESTUDIATN_549": [
+					"AT23_APELLIDO549",
+					"AT48_EDADANSC549",
+					"AT57_SEXORLKY549",
+					"AT97_NOMBREKB549"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_G2BMM_APELLIDOO_96771",
+				"LBL_G2BMM_EDADHQSAB_51835",
+				"LBL_G2BMM_GUARDARUS_48031",
+				"LBL_G2BMM_NOMBREZCB_40419",
+				"LBL_G2BMM_SEXOUVVOD_65930"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
 	},
 	"Queries": {
 	}

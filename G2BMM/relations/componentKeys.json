@@ -3,5 +3,18 @@
 		"EN_ESTUDIATN_549": {
 			"name": "Estudiante"
 		}
+	},
+	"FG2HX": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_G2BMMHBCSPWNH_310": {
+				"name": "EstudianteLfyForm"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }
