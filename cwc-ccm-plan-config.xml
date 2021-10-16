@@ -1227,6 +1227,9 @@
     </plan>
 
     <plan id="taller2-grupoB" reloadable="true">
+		<plugin name="g2bmm.groupb.customevents.view-1.0.0.jar" path="../../SEM/plugins/g2bmm.groupb.customevents.view-1.0.0.jar"/>
+		<plugin name="g2bmm.groupb.services-1.0.0.jar" path="../../SEM/plugins/g2bmm.groupb.services-1.0.0.jar"/>
+		<plugin name="g2bmm.groupb.customevents.impl-1.0.0.jar" path="../../SEM/plugins/g2bmm.groupb.customevents.impl-1.0.0.jar"/>
     </plan>
 
     <plan id="taller2-grupoC" reloadable="true">
