@@ -1,10 +1,13 @@
 {
-    "G2BMM": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"G2BMM": {
+		"LBL": {
+			"LBL_G2BMM_APELLIDOO_73506": "Apellido",
+			"LBL_G2BMM_EDADSDWVB_11241": "Edad",
+			"LBL_G2BMM_GUARDARQC_13279": "Guardar",
+			"LBL_G2BMM_NOMBREMNX_67250": "Nombre",
+			"LBL_G2BMM_SEXOXCHOE_78018": "Sexo"
+		},
+		"MSG": {
+		}
+	}
 }
