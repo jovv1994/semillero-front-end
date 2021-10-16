@@ -56,18 +56,248 @@
 					{
 						"collapsedStr": "F",
 						"colSpan": 1,
+						"columnsNum": 2,
 						"componentStyle": null,
 						"customEvents": [
 						],
 						"enabled": 4095,
+						"entity": {
+							"$ref": "../../../../G2BMM/entities/EN_ESTUDIATN_549.json#"
+						},
 						"eventType": 0,
-						"groupId": "Undefined",
+						"groupId": "G_ESTUDIATAK_161742",
+						"htmlSection": "F",
+						"independentValidation": "F",
 						"isCustomized": false,
-						"layoutType": "Empty",
-						"name": "Undefined",
+						"layoutType": "Group",
+						"name": "Group1179",
+						"order": 1,
+						"orientation": "V",
+						"responsiveLayouts": null,
+						"responsivity": false,
 						"style": null,
 						"visible": 4095,
 						"visualAttributes": [
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../G2BMM/entities/EN_ESTUDIATN_549.json#/attributes/AT23_APELLIDO549"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../G2BMM/assets/languages/G2BMM.json#/G2BMM/LBL/LBL_G2BMM_APELLIDOO_44524"
+									},
+									"labelId": "LBL_G2BMM_APELLIDOO_44524",
+									"moduleId": "G2BMM"
+								},
+								"maxRecords": null,
+								"name": "apellido",
+								"options": 0,
+								"order": 2,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_APELLIDOHIMIBUF_342742",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../G2BMM/entities/EN_ESTUDIATN_549.json#/attributes/AT97_NOMBREKB549"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../G2BMM/assets/languages/G2BMM.json#/G2BMM/LBL/LBL_G2BMM_NOMBREHFT_33351"
+									},
+									"labelId": "LBL_G2BMM_NOMBREHFT_33351",
+									"moduleId": "G2BMM"
+								},
+								"maxRecords": null,
+								"name": "nombre",
+								"options": 0,
+								"order": 1,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_NOMBREOQNOZJJAU_603742",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../G2BMM/entities/EN_ESTUDIATN_549.json#/attributes/AT57_SEXORLKY549"
+								},
+								"attributeValidations": [
+								],
+								"cacheDuration": 0,
+								"catalogName": "cl_sexo",
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"entityQuery": null,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../G2BMM/assets/languages/G2BMM.json#/G2BMM/LBL/LBL_G2BMM_SEXOWBXUI_96171"
+									},
+									"labelId": "LBL_G2BMM_SEXOWBXUI_96171",
+									"moduleId": "G2BMM"
+								},
+								"maxRecords": null,
+								"minChars": null,
+								"name": "sexo",
+								"options": 0,
+								"order": 3,
+								"queryId": null,
+								"queryMemberText": {
+									"attribute": {
+										"attributeId": null,
+										"name": null
+									},
+									"queryMemberId": null
+								},
+								"queryMemberValue": {
+									"attribute": {
+										"attributeId": null,
+										"name": null
+									},
+									"queryMemberId": null
+								},
+								"queryModule": null,
+								"queryVersion": null,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"type": null,
+								"userControl": {
+									"type": "I",
+									"userControlId": "ComboBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_SEXOWZTHMWWCSNO_600742",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+									{
+										"customEventId": "CEVA_010VA_VABUTTONIGPGTXU_480742_732",
+										"customizationLayer": 0,
+										"customizationLayerDescription": "ECU",
+										"enabled": "T",
+										"eventActions": [
+											{
+												"actionArgs": [
+												],
+												"actionId": "CUSTOM",
+												"actionType": "CUSTOM"
+											}
+										],
+										"executionType": 3,
+										"filter": null,
+										"isEnabled": true,
+										"visualAttributeEventType": {
+											"availableExecutionType": 7,
+											"description": "Permite personalizar la acci\u00f3n a ejecutar de un command o de un ActionControl",
+											"eventId": 10,
+											"name": "ExecuteCommand"
+										}
+									}
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"entityQuery": null,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../G2BMM/assets/languages/G2BMM.json#/G2BMM/LBL/LBL_G2BMM_GUARDARUW_64378"
+									},
+									"labelId": "LBL_G2BMM_GUARDARUW_64378",
+									"moduleId": "G2BMM"
+								},
+								"maxRecords": null,
+								"name": "VA_VABUTTONIGPGTXU_480742",
+								"options": 0,
+								"order": 4,
+								"queryModule": null,
+								"queryVersion": null,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "A",
+									"userControlId": "Button"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_VABUTTONIGPGTXU_480742",
+								"width": null,
+								"widthComposite": "D"
+							}
 						]
 					}
 				],
