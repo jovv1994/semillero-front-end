@@ -7,16 +7,20 @@
 				{
 					"generated": 0,
 					"moduleId": "G2BMM",
+					"moduleName": "G2",
 					"name": "EstudianteWCSForm",
 					"subModuleId": "FG2HX",
+					"subModuleName": "FG2",
 					"taskId": "T_G2BMMFVGWIDTY_959",
 					"type": "Simple form"
 				},
 				{
 					"generated": 4,
 					"moduleId": "G2BMM",
+					"moduleName": "G2",
 					"name": "EstudianteKSACForm",
 					"subModuleId": "FG2HX",
+					"subModuleName": "FG2",
 					"taskId": "T_G2BMMWMNTXXTX_710",
 					"type": "Simple form"
 				}
@@ -45,16 +49,20 @@
 				{
 					"generated": 4,
 					"moduleId": "G2BMM",
+					"moduleName": "G2",
 					"name": "EstudianteLfyForm",
 					"subModuleId": "FG2HX",
+					"subModuleName": "FG2",
 					"taskId": "T_G2BMMHBCSPWNH_310",
 					"type": "Simple form"
 				},
 				{
 					"generated": 0,
 					"moduleId": "G2BMM",
+					"moduleName": "G2",
 					"name": "EstudianteJovvForm",
 					"subModuleId": "FG2HX",
+					"subModuleName": "FG2",
 					"taskId": "T_G2BMMXOFVWSWZ_297",
 					"type": "Simple form"
 				}
@@ -81,7 +89,7 @@
 		"forms": {
 			"G2BMM": [
 				{
-					"generated": 4,
+					"generated": 2,
 					"moduleId": "G2BMM",
 					"name": "EstudianteSpcForm",
 					"subModuleId": "FG2HX",
@@ -89,7 +97,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 2,
 					"moduleId": "G2BMM",
 					"name": "EstudianteEcgForm",
 					"subModuleId": "FG2HX",
