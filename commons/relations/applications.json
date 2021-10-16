@@ -5,7 +5,7 @@
 		"forms": {
 			"G2BMM": [
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "G2BMM",
 					"name": "EstudianteWCSForm",
 					"subModuleId": "FG2HX",
@@ -13,7 +13,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "G2BMM",
 					"name": "EstudianteKSACForm",
 					"subModuleId": "FG2HX",
