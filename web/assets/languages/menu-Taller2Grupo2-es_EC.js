@@ -11,7 +11,7 @@
 			"MNU_F4_KSAC":"Menu Kleyner",
 			"MNU_FORM_F4_KSAC":"Formulario Kleyner",
 			"MNU_F4_WCS":"Menu Willian",
-			"MNU_FORM_F4_WCS":"Formulario Willian",
+			"MNU_FORM_F4_WSC":"Formulario Willian",
 			"MNU_F4_ECG":"Menu Erick",
 			"MNU_FORM_F4_ECG":"Formulario Erick"
         }
