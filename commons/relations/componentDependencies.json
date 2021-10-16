@@ -2,7 +2,6 @@
 	"CompositeForms": {
 	},
 	"Entities": {
-<<<<<<< HEAD
 	},
 	"Forms": {
 		"T_G2BMMBZMHAXCO_860": {
@@ -42,15 +41,6 @@
 			]
 		}
 	},
-=======
-		"EN_ESTUDIATN_549": {
-			"labels": [
-			]
-		}
-	},
-	"Forms": {
-	},
->>>>>>> entidad
 	"Queries": {
 	}
 }

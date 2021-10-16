@@ -1,6 +1,5 @@
 {
 	"Entities": {
-<<<<<<< HEAD
 	},
 	"FG2HX": {
 		"CompositeForms": {
@@ -16,10 +15,6 @@
 		"Queries": {
 		},
 		"SubForms": {
-=======
-		"EN_ESTUDIATN_549": {
-			"name": "Estudiante"
->>>>>>> entidad
 		}
 	}
 }
