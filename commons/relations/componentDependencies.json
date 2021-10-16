@@ -4,42 +4,6 @@
 	"Entities": {
 	},
 	"Forms": {
-		"T_G2BMMBZMHAXCO_860": {
-			"blis": [
-			],
-			"entities": {
-			},
-			"externalEntities": {
-			},
-			"externalQueries": {
-			},
-			"header": [
-			],
-			"labels": [
-			],
-			"queries": {
-			},
-			"subForms": [
-			]
-		},
-		"T_G2BMMJEILJYOW_425": {
-			"blis": [
-			],
-			"entities": {
-			},
-			"externalEntities": {
-			},
-			"externalQueries": {
-			},
-			"header": [
-			],
-			"labels": [
-			],
-			"queries": {
-			},
-			"subForms": [
-			]
-		}
 	},
 	"Queries": {
 	}
