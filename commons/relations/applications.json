@@ -7,8 +7,10 @@
 				{
 					"generated": 0,
 					"moduleId": "G2BMM",
+					"moduleName": "G2",
 					"name": "EstudianteWCSForm",
 					"subModuleId": "FG2HX",
+					"subModuleName": "FG2",
 					"taskId": "T_G2BMMJEILJYOW_425",
 					"type": "Simple form"
 				}
