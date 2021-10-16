@@ -8,7 +8,6 @@
 		}
 	},
 	"Forms": {
-		"T_G2BMMHBCSPWNH_310": {},
 		"T_G2BMMCXGROHCH_739": {
 			"blis": [
 			],
@@ -27,7 +26,6 @@
 			"header": [
 			],
 			"labels": [
-				"LBL_G2BMM_SEXOUVVOD_65930",
 				"LBL_G2BMM_APELLIDOO_83529",
 				"LBL_G2BMM_EDADRTJYD_86910",
 				"LBL_G2BMM_GUARDARQP_21903",
@@ -39,7 +37,6 @@
 			"subForms": [
 			]
 		},
-		"T_G2BMMCXGROHCH_739": {},
 		"T_G2BMMFVGWIDTY_959": {
 			"blis": [
 			],
@@ -58,7 +55,6 @@
 			"header": [
 			],
 			"labels": [
-				"LBL_G2BMM_SEXOSUMIL_13606",
 				"LBL_G2BMM_APELLIDOO_44524",
 				"LBL_G2BMM_EDADHXAZM_94450",
 				"LBL_G2BMM_GUARDARMI_85936",
@@ -70,7 +66,6 @@
 			"subForms": [
 			]
 		},
-		"T_G2BMMFVGWIDTY_959": {},
 		"T_G2BMMHBCSPWNH_310": {
 			"blis": [
 			],
@@ -89,7 +84,6 @@
 			"header": [
 			],
 			"labels": [
-				"LBL_G2BMM_SEXOWBXUI_96171",
 				"LBL_G2BMM_APELLIDOO_96771",
 				"LBL_G2BMM_EDADHQSAB_51835",
 				"LBL_G2BMM_GUARDARUS_48031",
@@ -101,7 +95,6 @@
 			"subForms": [
 			]
 		},
-		"T_G2BMMWMNTXXTX_710": {},
 		"T_G2BMMMMFIHRQP_426": {
 			"blis": [
 			],
@@ -120,7 +113,6 @@
 			"header": [
 			],
 			"labels": [
-				"LBL_G2BMM_SEXOWBXUI_96171",
 				"LBL_G2BMM_APELLIDOO_83528",
 				"LBL_G2BMM_EDADRTJYD_86910",
 				"LBL_G2BMM_GUARDARQP_21903",
@@ -132,7 +124,6 @@
 			"subForms": [
 			]
 		},
-		"T_G2BMMMMFIHRQP_426": {},
 		"T_G2BMMWMNTXXTX_710": {
 			"blis": [
 			],
@@ -150,21 +141,10 @@
 			"header": [
 			],
 			"labels": [
-				"LBL_G2BMM_SEXOSUMIL_13606",
 				"LBL_G2BMM_APELLIDOO_44524",
 				"LBL_G2BMM_GUARDARUW_64378",
 				"LBL_G2BMM_NOMBREHFT_33351",
-				"LBL_G2BMM_SEXOWBXUI_96171",
-				"LBL_G2BMM_APELLIDOO_83528",
-				"LBL_G2BMM_EDADRTJYD_86910",
-				"LBL_G2BMM_GUARDARQP_21903",
-				"LBL_G2BMM_NOMBRECZY_64099",
-				"LBL_G2BMM_SEXOSUMIL_13606",
-				"LBL_G2BMM_APELLIDOO_73506",
-				"LBL_G2BMM_EDADSDWVB_11241",
-				"LBL_G2BMM_GUARDARQC_13279",
-				"LBL_G2BMM_NOMBREMNX_67250",
-				"LBL_G2BMM_SEXOXCHOE_78018"
+				"LBL_G2BMM_SEXOWBXUI_96171"
 			],
 			"queries": {
 			},
