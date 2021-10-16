@@ -5,11 +5,19 @@
 		"forms": {
 			"G2BMM": [
 				{
-					"generated": 4,
+					"generated": 0,
 					"moduleId": "G2BMM",
 					"name": "EstudianteSpcForm",
 					"subModuleId": "FG2HX",
 					"taskId": "T_G2BMMCXGROHCH_739",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "G2BMM",
+					"name": "EstudianteEcgForm",
+					"subModuleId": "FG2HX",
+					"taskId": "T_G2BMMMMFIHRQP_426",
 					"type": "Simple form"
 				}
 			]

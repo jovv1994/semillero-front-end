@@ -10,6 +10,9 @@
 		"Forms": {
 			"T_G2BMMCXGROHCH_739": {
 				"name": "EstudianteSpcForm"
+			},
+			"T_G2BMMMMFIHRQP_426": {
+				"name": "EstudianteEcgForm"
 			}
 		},
 		"Queries": {
