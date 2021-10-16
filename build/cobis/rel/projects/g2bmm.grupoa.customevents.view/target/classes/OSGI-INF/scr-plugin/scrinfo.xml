@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0">
+    <scr:component enabled="true" name="com.cobiscorp.cobis.g2bmm.customevents.view.CEVA_010VA_VABUTTONGEOEQRI_619540_292_ViewEvent">
+        <implementation class="com.cobiscorp.cobis.g2bmm.customevents.view.CEVA_010VA_VABUTTONGEOEQRI_619540_292_ViewEvent"/>
+        <service servicefactory="false">
+            <provide interface="com.cobiscorp.designer.api.builder.ViewEventBuilder"/>
+        </service>
+        <property name="view.id" type="String" value="VW_ESTUDIANFT_540" private="false"/>
+        <property name="view.version" type="String" value="1.0.0" private="false"/>
+        <property name="service.pid" value="com.cobiscorp.cobis.g2bmm.customevents.view.CEVA_010VA_VABUTTONGEOEQRI_619540_292_ViewEvent" private="false"/>
+        <reference name="iExecuteCommandVA_VABUTTONGEOEQRI_619540" interface="com.cobiscorp.designer.api.customization.IExecuteCommand" cardinality="1..1" policy="dynamic" target="(&amp;(view.id=VW_ESTUDIANFT_540)(view.version=1.0.0)(view.controlId=VA_VABUTTONGEOEQRI_619540))" bind="setiExecuteCommandVA_VABUTTONGEOEQRI_619540" unbind="unsetiExecuteCommandVA_VABUTTONGEOEQRI_619540" checked="true" strategy="event"/>
+    </scr:component>
+    <scr:component enabled="true" name="com.cobiscorp.cobis.g2bmm.customevents.view.CEVA_010VA_VABUTTONIRIBLMZ_374674_805_ViewEvent">
+        <implementation class="com.cobiscorp.cobis.g2bmm.customevents.view.CEVA_010VA_VABUTTONIRIBLMZ_374674_805_ViewEvent"/>
+        <service servicefactory="false">
+            <provide interface="com.cobiscorp.designer.api.builder.ViewEventBuilder"/>
+        </service>
+        <property name="view.id" type="String" value="VW_ESTUDIANTV_674" private="false"/>
+        <property name="view.version" type="String" value="1.0.0" private="false"/>
+        <property name="service.pid" value="com.cobiscorp.cobis.g2bmm.customevents.view.CEVA_010VA_VABUTTONIRIBLMZ_374674_805_ViewEvent" private="false"/>
+        <reference name="iExecuteCommandVA_VABUTTONIRIBLMZ_374674" interface="com.cobiscorp.designer.api.customization.IExecuteCommand" cardinality="1..1" policy="dynamic" target="(&amp;(view.id=VW_ESTUDIANTV_674)(view.version=1.0.0)(view.controlId=VA_VABUTTONIRIBLMZ_374674))" bind="setiExecuteCommandVA_VABUTTONIRIBLMZ_374674" unbind="unsetiExecuteCommandVA_VABUTTONIRIBLMZ_374674" checked="true" strategy="event"/>
+    </scr:component>
+</components>
