@@ -10,7 +10,7 @@
 
 
 	<groupId>com.cobiscorp.cobis</groupId>
-	<artifactId>g2bmm.groupb.customevents.impl</artifactId>
+	<artifactId>g2bmm.grupoc.customevents.impl</artifactId>
 	<version>1.0.0</version>
 
 	<url>http://cobiscorp.com</url>
@@ -148,11 +148,6 @@
 	</build>
 	<dependencies>
 		<dependency>
-				<artifactId>g2bmm.domains</artifactId>
-	<groupId>com.cobiscorp.cobis</groupId>
-	<version>1.0.0</version>
-		</dependency>
-		<dependency>
 			<groupId>org.apache.felix</groupId>
 			<artifactId>org.apache.felix.scr.annotations</artifactId>
 			<version>1.6.0</version>
@@ -223,6 +218,11 @@
 					<groupId>com.cobiscorp.cobis</groupId>
 				</exclusion>
 			</exclusions>
+		</dependency>
+		<dependency>
+			<artifactId>g2bmm.domains</artifactId>
+			<groupId>com.cobiscorp.cobis</groupId>
+			<version>1.0.0</version>
 		</dependency>
 	</dependencies>
 </project>

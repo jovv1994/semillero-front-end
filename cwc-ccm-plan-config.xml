@@ -1215,28 +1215,28 @@
       <plugin name="admct.bli.services.impl" path="../../ADMCT/plugins/admct.bli.services.impl-1.0.0.jar"/>
       <plugin name="admct.appadmincuentas.services" path="../../ADMCT/plugins/admct.appadmincuentas.services-1.0.0.jar"/>
     </plan>
-	
+
     <plan id="taller2-domains" reloadable="true">
-	  <plugin name="g2bmm.domains-1.0.0.jar" path="../../SEM/plugins/g2bmm.domains-1.0.0.jar"/> 
+      <plugin name="g2bmm.domains-1.0.0.jar" path="../../SEM/plugins/g2bmm.domains-1.0.0.jar"/>
     </plan>
-	
+
     <plan id="taller2-grupoA" reloadable="true">
-	  <plugin name="g2bmm.grupoa.customevents.impl-1.0.0.jar" path="../../SEM/plugins/g2bmm.grupoa.customevents.impl-1.0.0.jar"/> 
-	  <plugin name="g2bmm.grupoa.customevents.view-1.0.0.jar" path="../../SEM/plugins/g2bmm.grupoa.customevents.view-1.0.0.jar"/>
-	  <plugin name="g2bmm.grupoa.services-1.0.0.jar" path="../../SEM/plugins/g2bmm.grupoa.services-1.0.0.jar"/> 
+      <plugin name="g2bmm.grupoa.customevents.impl-1.0.0.jar" path="../../SEM/plugins/g2bmm.grupoa.customevents.impl-1.0.0.jar"/>
+      <plugin name="g2bmm.grupoa.customevents.view-1.0.0.jar" path="../../SEM/plugins/g2bmm.grupoa.customevents.view-1.0.0.jar"/>
+      <plugin name="g2bmm.grupoa.services-1.0.0.jar" path="../../SEM/plugins/g2bmm.grupoa.services-1.0.0.jar"/>
     </plan>
-	
-	<plan id="taller2-grupoB" reloadable="true">
-	  <plugin name="g2bmm.grupob.customevents.impl-1.0.0.jar.jar" path="../../SEM/plugins/g2bmm.grupob.customevents.impl-1.0.0.jar.jar"/> 
-	  <plugin name="g2bmm.groupb.customevents.view-1.0.0.jar" path="../../SEM/plugins/g2bmm.groupb.customevents.view-1.0.0.jar"/>
-	  <plugin name="g2bmm.groupb.services-1.0.0.jar" path="../../SEM/plugins/g2bmm.groupb.services-1.0.0.jar"/>
-	</plan>
-	
-	<plan id="taller2-grupoC" reloadable="true">
-      <plugin name="g2bmm.grupoc.customevents.impl-1.0.0.jar.jar" path="../../SEM/plugins/g2bmm.grupoc.customevents.impl-1.0.0.jar.jar"/>
-	  <plugin name="g2bmm.grupoc.customevents.view-1.0.0.jar" path="../../SEM/plugins/g2bmm.grupoc.customevents.view-1.0.0.jar"/>
-	  <plugin name="g2bmm.grupoc.services-1.0.0.jar" path="../../SEM/plugins/g2bmm.grupoc.services-1.0.0.jar"/>
+
+    <plan id="taller2-grupoB" reloadable="true">
+		<plugin name="g2bmm.groupb.customevents.view-1.0.0.jar" path="../../SEM/plugins/g2bmm.groupb.customevents.view-1.0.0.jar"/>
+		<plugin name="g2bmm.groupb.services-1.0.0.jar" path="../../SEM/plugins/g2bmm.groupb.services-1.0.0.jar"/>
+		<plugin name="g2bmm.groupb.customevents.impl-1.0.0.jar" path="../../SEM/plugins/g2bmm.groupb.customevents.impl-1.0.0.jar"/>
     </plan>
-	
+
+    <plan id="taller2-grupoC" reloadable="true">
+      <plugin name="g2bmm.grupoc.customevents.impl-1.0.0.jar" path="../../SEM/plugins/g2bmm.grupoc.customevents.impl-1.0.0.jar"/>
+      <plugin name="g2bmm.grupoc.customevents.view-1.0.0.jar" path="../../SEM/plugins/g2bmm.grupoc.customevents.view-1.0.0.jar"/>
+      <plugin name="g2bmm.grupoc.services-1.0.0.jar" path="../../SEM/plugins/g2bmm.grupoc.services-1.0.0.jar"/>
+    </plan>
+    
   </own>
 </ccm-plan-config>
