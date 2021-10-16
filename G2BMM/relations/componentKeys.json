@@ -16,5 +16,18 @@
 		},
 		"SubForms": {
 		}
+	},
+	"FG2HX": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_G2BMMFVGWIDTY_959": {
+				"name": "EstudianteWCSForm"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }

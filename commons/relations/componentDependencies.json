@@ -41,6 +41,29 @@
 			]
 		}
 	},
+<<<<<<< HEAD
+=======
+	"Forms": {
+		"T_G2BMMFVGWIDTY_959": {
+			"blis": [
+			],
+			"entities": {
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+>>>>>>> 860554c9c8ae3ebfe8d179f430997e02cb596bd2
 	"Queries": {
 	}
 }

@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 	"APP_GROUPBLGJKX_953": {
+=======
+	"APP_GROUPBXUYSE_163": {
+>>>>>>> 860554c9c8ae3ebfe8d179f430997e02cb596bd2
 		"externalModules": {
 		},
 		"forms": {
@@ -7,6 +11,7 @@
 				{
 					"generated": 0,
 					"moduleId": "G2BMM",
+<<<<<<< HEAD
 					"name": "EstudianteKACForm",
 					"subModuleId": "FG2HX",
 					"taskId": "T_G2BMMBZMHAXCO_860",
@@ -18,6 +23,11 @@
 					"name": "EstudianteWCSForm",
 					"subModuleId": "FG2HX",
 					"taskId": "T_G2BMMJEILJYOW_425",
+=======
+					"name": "EstudianteWCSForm",
+					"subModuleId": "FG2HX",
+					"taskId": "T_G2BMMFVGWIDTY_959",
+>>>>>>> 860554c9c8ae3ebfe8d179f430997e02cb596bd2
 					"type": "Simple form"
 				}
 			]
@@ -30,8 +40,13 @@
 			"mode": "Development",
 			"type": "HTML5"
 		},
+<<<<<<< HEAD
 		"id": "APP_GROUPBLGJKX_953",
 		"mainPortletTaskId": "T_G2BMMJEILJYOW_425",
+=======
+		"id": "APP_GROUPBXUYSE_163",
+		"mainPortletTaskId": "T_G2BMMFVGWIDTY_959",
+>>>>>>> 860554c9c8ae3ebfe8d179f430997e02cb596bd2
 		"modules": [
 			"G2BMM"
 		],
