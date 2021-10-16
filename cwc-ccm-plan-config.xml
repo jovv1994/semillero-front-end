@@ -1237,5 +1237,6 @@
       <plugin name="g2bmm.grupoc.customevents.view-1.0.0.jar" path="../../SEM/plugins/g2bmm.grupoc.customevents.view-1.0.0.jar"/>
       <plugin name="g2bmm.grupoc.services-1.0.0.jar" path="../../SEM/plugins/g2bmm.grupoc.services-1.0.0.jar"/>
     </plan>
+    
   </own>
 </ccm-plan-config>
