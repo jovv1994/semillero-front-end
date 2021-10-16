@@ -1,20 +1,7 @@
 {
 	"Entities": {
-	},
-	"FG2HX": {
-		"CompositeForms": {
-		},
-		"Forms": {
-			"T_G2BMMBZMHAXCO_860": {
-				"name": "EstudianteKACForm"
-			},
-			"T_G2BMMJEILJYOW_425": {
-				"name": "EstudianteWCSForm"
-			}
-		},
-		"Queries": {
-		},
-		"SubForms": {
+		"EN_ESTUDIATN_549": {
+			"name": "Estudiante"
 		}
 	},
 	"FG2HX": {

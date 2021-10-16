@@ -2,47 +2,11 @@
 	"CompositeForms": {
 	},
 	"Entities": {
-	},
-	"Forms": {
-		"T_G2BMMBZMHAXCO_860": {
-			"blis": [
-			],
-			"entities": {
-			},
-			"externalEntities": {
-			},
-			"externalQueries": {
-			},
-			"header": [
-			],
+		"EN_ESTUDIATN_549": {
 			"labels": [
-			],
-			"queries": {
-			},
-			"subForms": [
-			]
-		},
-		"T_G2BMMJEILJYOW_425": {
-			"blis": [
-			],
-			"entities": {
-			},
-			"externalEntities": {
-			},
-			"externalQueries": {
-			},
-			"header": [
-			],
-			"labels": [
-			],
-			"queries": {
-			},
-			"subForms": [
 			]
 		}
 	},
-<<<<<<< HEAD
-=======
 	"Forms": {
 		"T_G2BMMFVGWIDTY_959": {
 			"blis": [
@@ -63,7 +27,6 @@
 			]
 		}
 	},
->>>>>>> 860554c9c8ae3ebfe8d179f430997e02cb596bd2
 	"Queries": {
 	}
 }
